@@ -6,10 +6,10 @@ E-mail：15010956697@163.com
 ### 工作经历
 2015/10 -- 至今	北京好巧网有限公司<br>2014/04 -- 2015/10	北京家宅融智科技有限公司
 ### 技能列表
-* 熟练PC和M端网页排版布局， 熟练使用JavaScript、jQuery等主流技术。
-* 熟悉模块化开发require.js、sea.js等，熟练使用webpack、gulp等前端构造工具实现开发流程自动化。
-* 熟练使前端新技术angular、vue熟练使用前端构建工具，了解es6，微信小程序开发。
-* 熟悉Charles抓包工具和Debug调试工具。
+熟练PC和M端网页排版布局， 熟练使用JavaScript、jQuery等主流技术。
+熟悉模块化开发require.js、sea.js等，熟练使用webpack、gulp等前端构造工具实现开发流程自动化。
+熟练使前端新技术angular、vue熟练使用前端构建工具，了解es6，微信小程序开发。
+熟悉Charles抓包工具和Debug调试工具。
 ### 项目经验
 #### 堆糖（Vue版）
 项目职责：根据angular项目进行更改，使用vue+webpack来构建整个项目的结构和规范，使用vue-router实现路由跳转，使用vuex来进行数据状态管理，使用vue-resource与后端进行数据交互。
